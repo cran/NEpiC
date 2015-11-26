@@ -1,0 +1,3 @@
+import(igraph)
+importFrom("stats", "qnorm", "sd")
+exportPattern(c_score,c_dms,candidate_genes)
